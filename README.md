@@ -1,8 +1,5 @@
 # Mark2.0
 🚀 Introducing Mark 2.0 – My AI-Powered Virtual Assistant! 🤖
-
-Excited to share my latest project: Mark 2.0, an AI-driven voice assistant that integrates speech recognition, computer vision, and automation to enhance productivity and user experience.
-
 Key Features:
 ✅ Voice Commands – Open apps, search the web, and control your system hands-free
 ✅ Face Recognition – Personalized interactions based on user identity
@@ -16,5 +13,3 @@ Key Features:
 ✅ Security Monitoring – Alert users about suspicious activity via the camera
 
 Built using Python, OpenAI API, Selenium, OpenCV, Speech Recognition, and more, this project showcases the power of AI in daily automation.
-
-#AI #Python #MachineLearning #Automation #OpenAI #VoiceAssistant #ArtificialIntelligence #Innovation #Tech
